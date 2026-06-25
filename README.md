@@ -33,3 +33,5 @@ npm run dev
 - `https://api.github.com/users/{username}/repos` — User repositories
 
 > Note: GitHub API has a rate limit of 60 requests/hour for unauthenticated requests.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
